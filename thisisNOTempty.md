@@ -9,5 +9,7 @@ This is a good use of version control firstly because there are many changes tak
 Where does it fall short in leveraging version control tools?
 
 What would you do differently?
+I would create a plug-in for the CRM that would track changes automatically and run a regular report to let us know what changes have taken place.
 
 What would be the alternantive to version control?
+
