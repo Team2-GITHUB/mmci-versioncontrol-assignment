@@ -7,7 +7,5 @@ Why is it a good use of version control (Git/Github)?
 This is a good use of version control firstly because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.
 
 Where does it fall short in leveraging version control tools?
-
+Version control tools, especially github, require users to learn an extra skillset and language, making the current tools not user friendly. 
 What would you do differently?
-
-What would be the alternantive to version control?
