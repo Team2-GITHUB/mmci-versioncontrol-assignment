@@ -11,3 +11,5 @@ Where does it fall short in leveraging version control tools?
 What would you do differently?
 
 What would be the alternantive to version control?
+
+With the recent discussion about privacy, how would version control be implemented to enhance privacy?
