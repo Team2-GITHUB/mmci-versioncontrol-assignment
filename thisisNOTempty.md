@@ -25,3 +25,5 @@ Version control tools, especially github, require users to learn an extra skills
 
 In this case, an alternative to version control could be a plug-in that works with our CRM to track changes and report out regularly about the changes that were made in the past week.
 
+It would also be nice if the product was easier to use and users didn't have to learn code or abstruse terms to use the product.
+
