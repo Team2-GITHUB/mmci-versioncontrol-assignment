@@ -10,7 +10,7 @@ version control is kind of a "database" that lets you save a snapshot of your co
 ## Why is it a good use of version control (Git/Github)?
 
 It's very important because, if you loose your data/files, you can generally recover it easily.
-This is a good use of version control firstly because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.  Every version is essentially a clone and full backup of the files, even if the server the original files were saved to become obsolete.  
+Because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.  Every version is essentially a clone and full backup of the files, even if the server the original files were saved to become obsolete.  
 
 ![Flow](https://github.com/Team2-GITHUB/mmci-versioncontrol-assignment/blob/master/Version%20Control%20for%20Project%20Management.png)
 
