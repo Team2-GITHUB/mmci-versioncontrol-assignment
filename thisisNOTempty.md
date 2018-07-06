@@ -19,6 +19,7 @@ This is a good use of version control firstly because there are many changes tak
 ## Where does it fall short in leveraging version control tools?
 It doesn't support checking out sub-trees, the central would need to be setup for multiple per package repositories for each project rather than a project wide repository.
 its also harder to use it when you need to fetch a very large repository with huge commit history, just in order to see the source or do a simple patch.
+It doesn't track empty folders.
 Version control tools, especially github, require users to learn an extra skillset and language, making the current tools not user friendly. 
 
 ## What would you do differently?
