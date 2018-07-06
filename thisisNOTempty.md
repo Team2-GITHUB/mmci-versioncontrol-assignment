@@ -5,6 +5,7 @@ Version control on the enterprise level can help ensure proper relationships wit
 Addtionally, version control can help track relationships over time with individual clients. That way if a new project is introduced, the consultant assigned to that project can check the client's record and see the work that was done for that client and the relationship of the client to the firm and how it has changed over time. People who have left, joined or moved up in the client firm would be tracked through version control.
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+version control is kind of a "database" that lets you save a snapshot of your complete project anytime you want.it lets you work with any tools that you like. it doesnt care what kind of text editor, graphic program, file manager, or other tools that you use.
 
 Why is it a good use of version control (Git/Github)?
 
