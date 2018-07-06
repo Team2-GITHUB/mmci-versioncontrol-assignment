@@ -8,10 +8,12 @@ This is a good use of version control firstly because there are many changes tak
 
 Where does it fall short in leveraging version control tools?
 Version control tools, especially github, require users to learn an extra skillset and language, making the current tools not user friendly. 
+
 What would you do differently?
 
 
 What would be the alternantive to version control?
+In this case, an alternative to version control could be a plug-in that works with our CRM to track changes and report out regularly about the changes that were made in the past week.
 
 With the recent discussion about privacy, how would version control be implemented to enhance privacy?
 
