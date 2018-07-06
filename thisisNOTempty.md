@@ -27,3 +27,5 @@ In this case, an alternative to version control could be a plug-in that works wi
 
 It would also be nice if the product was easier to use and users didn't have to learn code or abstruse terms to use the product.
 
+Overall, version control would be a fantastic tool if there were a user interface that was built for non-programmers.
+![Not Good](https://github.com/Team2-GITHUB/mmci-versioncontrol-assignment/blob/master/Screen%20Shot%202018-07-06%20at%202.36.48%20PM.png)
