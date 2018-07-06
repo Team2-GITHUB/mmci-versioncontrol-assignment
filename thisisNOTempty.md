@@ -6,6 +6,7 @@ Addtionally, version control can help track relationships over time with individ
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 version control is kind of a "database" that lets you save a snapshot of your complete project anytime you want.it lets you work with any tools that you like. it doesnt care what kind of text editor, graphic program, file manager, or other tools that you use.
+
 ![This is an example for version control](https://github.com/Team2-GITHUB/mmci-versioncontrol-assignment/blob/master/Screen%20Shot%202018-07-06%20at%202.09.20%20PM.png).
 
 ## Why is it a good use of version control (Git/Github)?
