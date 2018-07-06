@@ -12,7 +12,10 @@ version control is kind of a "database" that lets you save a snapshot of your co
 ## Why is it a good use of version control (Git/Github)?
 
 It's very important because, if you loose your data/files, you can generally recover it easily.
-This is a good use of version control firstly because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.  Every version is essentially a clone and full backup of the files, even if the server the original files were saved to become obsolete.  
+This is a good use of version control firstly because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.  Every version is essentially a clone and full backup of the files, even if the server the original files were saved to become obsolete. 
+Being able to restore older versions of a file (or even the whole project) effectively means one thing: you can't mess up! If the changes you've made lately prove to be garbage, you can simply undo them in a few clicks. Knowing this should make you a lot more relaxed when working on important bits of a project.
+
+
 
 Additionally, using version control you can look back and see who made what changes. That way, you can go and consult with a specific colleague about a project. Version control makes it easy to find out who added what information so that you can go ask follow-up questions about a specific change or product. 
 
