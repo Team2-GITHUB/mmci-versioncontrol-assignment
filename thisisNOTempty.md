@@ -13,7 +13,7 @@ It's very important because, if you loose your data/files, you can generally rec
 This is a good use of version control firstly because there are many changes taking place within firms, and the more a consultant can keep up with and see those changes over time, the better they will know and serve their client. Secondly, version control can accelerate learnings throughougt the consulting firm. For example, if a project that was done a year ago is similar to a new project, version control can allow the consultant to find procedures and results from the older project and apply it to the new one.  Every version is essentially a clone and full backup of the files, even if the server the original files were saved to become obsolete.  
 
 mmci-versioncontrol-assignment/Version Control for Project Management.png 
-![Flow] (mmci-versioncontrol-assignment/Version Control for Project Management.png)
+![Flow](mmci-versioncontrol-assignment/Version Control for Project Management.png)
 
 Where does it fall short in leveraging version control tools?
 Version control tools, especially github, require users to learn an extra skillset and language, making the current tools not user friendly. 
