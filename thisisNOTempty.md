@@ -20,7 +20,7 @@ Version control tools, especially github, require users to learn an extra skills
 
 ## What would you do differently?
 
-## What would be the alternantive to version control?
+What would be the alternative to version control?
 In this case, an alternative to version control could be a plug-in that works with our CRM to track changes and report out regularly about the changes that were made in the past week.
 
 With the recent discussion about privacy, how would version control be implemented to enhance privacy?
