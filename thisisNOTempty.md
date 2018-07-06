@@ -1,4 +1,4 @@
-Description of Use Case
+#Description of Use Case
 
 Version control on the enterprise level can help ensure proper relationships with clients within a consulting firm. Different projects will ostensibly have unique solutions, but these solutions may be applied elsewhere and version control would detail who helped on the project and what they did. When another similar project is picked up, a possible solution could be found through version control.
 
