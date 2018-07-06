@@ -9,3 +9,4 @@ This is a good use of version control firstly because there are many changes tak
 Where does it fall short in leveraging version control tools?
 
 What would you do differently?
+What would be the alternantive to version control
