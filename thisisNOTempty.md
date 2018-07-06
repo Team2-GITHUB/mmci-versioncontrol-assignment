@@ -20,7 +20,10 @@ Additionally, using version control you can look back and see who made what chan
 
 ## Where does it fall short in leveraging version control tools?
 It doesn't support checking out sub-trees, the central would need to be setup for multiple per package repositories for each project rather than a project wide repository.
-It's also harder to use it when you need to fetch a very large repository with huge commit history, just in order to see the source or do a simple patch.
+ nn63-patch-5
+its also harder to use it when you need to fetch a very large repository with huge commit history, just in order to see the source or do a simple patch.
+It doesn't track empty folders.
+It's also harder to use it when you need to fetch a very large repository with huge commit history, just in order to see the source or do a simple patch. master
 Version control tools, especially github, require users to learn an extra skillset and language, making the current tools not user friendly. 
 
 ## What would you do differently?
